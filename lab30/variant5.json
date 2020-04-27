@@ -3,6 +3,6 @@
     {"name": "Сахар", "value": 40, "amount": 2},
     {"name": "Шоколад", "value": 60, "amount": 1},
     {"name": "Кленовый сироп", "value": 30, "amount": 1},
-    {"name": "Глазурь", "value": 25, "amount": 0},
+    {"name": "Глазурь", "value": 25, "amount": 0}
   ]
 }
